@@ -1,0 +1,7 @@
+Aktie,Datum,Menge,Preis,typ
+AAPL,2023-04-06,5,150,Gekauft
+TSLA,2023-04-06,12,700,Gekauft
+MSFT,2023-02-24,4,250,Gekauft
+AAPL,2023-08-22,3,200,Verkauft
+TSLA,2023-12-18,7,620,Verkauft
+MSFT,2024-01-26,4,400,Verkauft
